@@ -8,3 +8,4 @@ ConstructorInitializerAllOnOneLineOrOnePerLine: false
 BreakConstructorInitializers: BeforeColon
 AlwaysBreakTemplateDeclarations: true
 ColumnLimit: 88
+SortIncludes: true
