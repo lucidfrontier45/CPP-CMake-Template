@@ -1,0 +1,10 @@
+BasedOnStyle: Webkit
+AlignOperands: true
+AlignAfterOpenBracket: Align
+AllowShortIfStatementsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: Empty
+ConstructorInitializerAllOnOneLineOrOnePerLine: false
+BreakConstructorInitializers: BeforeColon
+AlwaysBreakTemplateDeclarations: true
+ColumnLimit: 88
