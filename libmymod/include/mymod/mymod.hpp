@@ -1,6 +1,6 @@
 #pragma once
 
-namespace testlib {
+namespace mymod {
 
 int add(int x, int y);
 

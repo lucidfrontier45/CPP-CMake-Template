@@ -1,1 +1,1 @@
-# C++ CMake Project Template
+# Pybind11 CMake Project Template
